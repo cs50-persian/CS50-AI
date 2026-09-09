@@ -1,4 +1,4 @@
-# CS50 AI — Persian Edition 🇮🇷
+# CS50 AI — Persian Edition
 
 * > **اگر فارسی زبان هستید به [صفحه فارسی](https://github.com/cs50-persian/CS50-AI/blob/main/Persian.md) مراجعه فرمایید.**
 * > **Harvard University's CS50 AI course, now available in Persian for Persian-speaking learners through CS50x Persian.**
@@ -53,7 +53,7 @@ Our Persian CS50 AI course provides:
 
 * 📚 Persian learning resources
 * 🧠 AI-focused projects and examples
-* 🇮🇷 Persian-language educational content
+*  Persian-language educational content
 * 🎥 Professionally translated course lessons
 * 🤖 Practical artificial intelligence projects
 * 🌱 A learning experience designed for Persian-speaking students

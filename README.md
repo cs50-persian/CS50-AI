@@ -128,6 +128,6 @@ If this project helps you learn artificial intelligence or Python, consider givi
 
 Your support helps us continue making high-quality computer science education more accessible to the Persian-speaking community.
 
-**Learn. Build. Share. 🇮🇷**
+**Learn. Build. Share.**
 
 > **This document was created by [Borna Etminan](https://github.com/borna-etminan), an official member of the Harvard University CS50 Persian team and the main admin of this Github account.**
